@@ -133,3 +133,16 @@ img{max-width:100%}
   .experience-card{padding:19px}.card-foot{font-size:6px;letter-spacing:.4px}
   .ticker-track{gap:14px}
 }
+.hero-intro,.section-heading>p,.about-copy p{color:#30495f}
+.card-description,.capability-title p,.role-line,.support-note{color:#344d62}
+.card-foot,.meter-note,.hero-meta,.hero-index{color:#455d72}
+.eyebrow{color:#3e5c74}
+.experience-card h3,.capability-title h3{color:#172b3d}
+.card-description{font-size:12px;line-height:1.75}
+.role-line{font-size:11px}
+.capability-title p{font-size:11px}
+.tag,.card-number{font-size:9px}
+.button-join{background:#5e8fb7;color:#f5f9fc;border:2px solid #9ab9d3;box-shadow:inset -3px -3px #365a78,3px 3px 0 #6c8499}
+.button-join:hover{background:#6c9bc1}
+.closing-cta .button{margin:4px 6px 0}
+@media(max-width:650px){.card-foot{font-size:7px}.tag,.card-number{font-size:8px}.closing-cta .button{margin:5px 3px}.hero-actions .button-join{order:0}}
